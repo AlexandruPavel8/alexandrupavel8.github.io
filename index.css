@@ -10,4 +10,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: red;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Helvetica;
+}
