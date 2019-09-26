@@ -12,8 +12,10 @@
     align-items: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: red;
+    color: white;
     font-size: 2em;
     font-weight: bold;
     font-family: Helvetica;
+    border-style: solid;
+    border-width: 5px;
 }
